@@ -6,6 +6,6 @@
 
 <hr>
 
-<h4 align=center>Pré-Vizualização do meu código!!</h4>
+<h4 align=center>Pré-Vizualização do meu código! ⭐⭐</h4>
 
 ![image](https://github.com/htklucas/galeria-fotos/assets/161860612/525b5359-3aba-4752-a6d6-a042bdeda1f5)
