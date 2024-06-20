@@ -1,6 +1,6 @@
 <h1 align=center>Galeria de Fotos !!</h1>
 
-<h4 align=center>Essa é minha galeria, foi criada com intenção de ser uma galeria de memes!! ⭐</h4>
+<h3 align=center>Essa é minha galeria, foi criada com intenção de ser uma galeria de memes!! ⭐</h3>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-<h4 align=center>Pré-Vizualização do meu código! ⭐⭐</h4>
+<h3 align=center>Pré-Vizualização do meu código! ⭐⭐</h3>
 
 <br>
 
