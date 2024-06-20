@@ -1,4 +1,6 @@
-### Galeria de Fotos !!
+<center>
+<h1>Galeria de Fotos !!</h1>
+</center>
 
 <h4>Essa é minha galeria, foi criada com intenção de ser uma galeria de memes!! ⭐</h4>
 
